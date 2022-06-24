@@ -1,2 +1,2 @@
 # odin-landing-page
-CSS Project for The Odin Project.
+<strong>CSS Project for The Odin Project.</strong>
