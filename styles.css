@@ -123,6 +123,8 @@ li{
     border-width: 5px;
 }
 
+/* this was really the hardest part of the project */
+
 .middle-bottom{
     display: flex;
     flex-direction: row;
